@@ -23,7 +23,7 @@ A modern web-based music player for your local music collection with YouTube dow
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/music_streamer.git
+git clone https://github.com/yeh-john/music_streamer.git
 cd music_streamer
 ```
 
